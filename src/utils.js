@@ -111,4 +111,10 @@ h1 {
   gap: 5px;
   align-items: center;
 }
+
+@media (max-width:680px) {
+ .search {
+  align-content:  flex-start;
+}
+}
 `;
